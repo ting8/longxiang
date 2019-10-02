@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+【版本号开始】1.58【版本号结束】
 
-You can use the [editor on GitHub](https://github.com/ting8/longxiang/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+【系统号开始】2019年10月1日【系统号结束】
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+【开始】http://dxudng.hk01.bdysite.com/gxcx/157.exe【结束】
 
-### Markdown
+【说明开始】--------------------------------------------------------------------------------------#HHF1,已知错误修正,#HHF2,功能升级,#HHF3,新增在线注册成员,增加资料图片功能(注:尽量不要添加图片资料,因图片数据过大,读取会使程序出现假死现象),改进软件注册算法,信息显示增加婚姻,#HHF4,管理员审核功能升级,#HHF5,完善了在线更新功能,在线检测更新,#HHF6,完善了建议发送#HHF7,公告管理升级,公告功能增加了发布视频功能,公告排序.#HHF8,升级了注册成员功能,使其审核更加严格.#HHF9,新增组织机构.#HHF10,优化程序界面风格,登录风格.#HHF---------------------------------------------------------发布时间:2019年02月05日【说明结束】
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果要弹广告必需要大于10【是否广告开始】9【是否广告结束】
 
-```markdown
-Syntax highlighted code block
+【广告网址开始】http://ftp6259660.host112.sanfengyun.cn/【广告网址结束】
 
-# Header 1
-## Header 2
-### Header 3
+【广告图片开始】http://pic.cr173.com/up/2016-9/201691178444377.jpg【广告图片结束】
 
-- Bulleted
-- List
+【广告代开始】http://ftp6259654.host715.zhujiwu.me/gg/gg.txt【广告代结束】
 
-1. Numbered
-2. List
+【广网开始】http://ftp6259660.host112.sanfengyun.cn/wy/【广网结束】
 
-**Bold** and _Italic_ and `Code` text
+广告限时至少要在8000以上【广告限时开始】15000【广告限时结束】
 
-[Link](url) and ![Image](src)
-```
+【通告开始】不要通告【通告结束】
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+【二维码开始】http://s6.sinaimg.cn/middle/007nHqSAzy7r1mSFhHve5&amp;690【二维码结束】
 
-### Jekyll Themes
+【安卓下载开始】http://dxudng.hk01.bdysite.com/hs1.1.apk【安卓下载结束】
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ting8/longxiang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+【安卓说明开始】安卓端只有查询功能,(注:因#HHF为目前还没有服务器,所以只#HHF能用局域网测试功能.希望有#HHF人能赞助服务器)【安卓说明结束】	
